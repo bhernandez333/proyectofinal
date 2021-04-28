@@ -17,6 +17,8 @@ const useStyles = makeStyles((theme) => ({
       extendedIcon: {
         marginRight: theme.spacing(1),
       },
+      height: '100%', 
+      width: '100%',
     },
     button: {
         margin: theme.spacing(1),
